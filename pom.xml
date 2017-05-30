@@ -236,7 +236,7 @@
 		<dependency>
 			<groupId>org.apache.httpcomponents</groupId>
 			<artifactId>httpclient</artifactId>
-			<version>4.3.4</version>
+			<version>4.3.5</version>
 		</dependency>
 		<dependency>
 			<groupId>com.maxmind.geoip2</groupId>
@@ -315,7 +315,7 @@
 		<mockito-version>1.9.5</mockito-version>
 		<powermock.version>1.5.1</powermock.version>
 		<sl4j.version>1.7.6</sl4j.version>
-		<logback.version>1.1.2</logback.version>
+		<logback.version>1.2.0</logback.version>
 		<mapdb.version>1.0.5</mapdb.version>
 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

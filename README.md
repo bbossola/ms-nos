@@ -4,6 +4,9 @@ ms-nos
 A [simple network operating system](http://msnos.io) for Microservices (java implementation). This is a work in progress, even if the first public stable release is available, however you are welcome to start using it right now, everything works. Any queries, please open [an issue](https://github.com/workshare/ms-nos/issues) 
 
 [![Built with Maven](http://maven.apache.org/images/logos/maven-feather.png)](http://maven.apache.org/)  [![Build Status](https://travis-ci.org/workshare/ms-nos.svg?branch=master)](https://travis-ci.org/workshare/ms-nos)
+[![security status](https://www.meterian.io/badge/gh/bbossola/ms-nos/security)](https://www.meterian.io/report/gh/bbossola/ms-nos)
+[![defect status](https://www.meterian.io/badge/gh/bbossola/ms-nos/defect)](https://www.meterian.io/report/gh/bbossola/ms-nos)
+
 <!--
 [![Coverage Status](https://coveralls.io/repos/bbossola/ms-nos/badge.png)](https://coveralls.io/r/workshare/ms-nos)
 --> 

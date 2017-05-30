@@ -5,7 +5,7 @@ A [simple network operating system](http://msnos.io) for Microservices (java imp
 
 [![Built with Maven](http://maven.apache.org/images/logos/maven-feather.png)](http://maven.apache.org/)  [![Build Status](https://travis-ci.org/workshare/ms-nos.svg?branch=master)](https://travis-ci.org/workshare/ms-nos)
 [![security status](https://www.meterian.io/badge/gh/bbossola/ms-nos/security)](https://www.meterian.io/report/gh/bbossola/ms-nos)
-[![defect status](https://www.meterian.io/badge/gh/bbossola/ms-nos/defect)](https://www.meterian.io/report/gh/bbossola/ms-nos)
+[![stability status](http://local.meterian.com/badge/gh/spring-projects/spring-boot/stability)](http://local.meterian.com/report/gh/spring-projects/spring-boot)
 
 <!--
 [![Coverage Status](https://coveralls.io/repos/bbossola/ms-nos/badge.png)](https://coveralls.io/r/workshare/ms-nos)

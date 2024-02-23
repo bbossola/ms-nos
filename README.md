@@ -1,6 +1,9 @@
 ms-nos
 ======
 
+
+[![security status](https://qa.meterian.io/badge/pb/e9422919-933b-4b2b-a2f0-67e60bf56b2e/security)](https://qa.meterian.io/projects/?pid=e9422919-933b-4b2b-a2f0-67e60bf56b2e) [![stability status](https://qa.meterian.io/badge/pb/e9422919-933b-4b2b-a2f0-67e60bf56b2e/stability)](https://qa.meterian.io/projects/?pid=e9422919-933b-4b2b-a2f0-67e60bf56b2e) [![licensing status](https://qa.meterian.io/badge/pb/e9422919-933b-4b2b-a2f0-67e60bf56b2e/licensing)](https://qa.meterian.io/projects/?pid=e9422919-933b-4b2b-a2f0-67e60bf56b2e)
+
 A [simple network operating system](http://msnos.io) for Microservices (java implementation). This is a work in progress, even if the first public stable release is available, however you are welcome to start using it right now, everything works. Any queries, please open [an issue](https://github.com/workshare/ms-nos/issues) 
 
 [![Built with Maven](http://maven.apache.org/images/logos/maven-feather.png)](http://maven.apache.org/)  [![Build Status](https://travis-ci.org/workshare/ms-nos.svg?branch=master)](https://travis-ci.org/workshare/ms-nos)
